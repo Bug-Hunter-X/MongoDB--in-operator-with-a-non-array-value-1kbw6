@@ -1,0 +1,2 @@
+# MongoDB $in Operator with Non-Array Value
+This example demonstrates an incorrect usage of MongoDB's `$in` operator. The `$in` operator expects an array as its value, but using a non-array value will produce an unexpected result. The correct usage and solution are provided in the `bugSolution.js` file.
